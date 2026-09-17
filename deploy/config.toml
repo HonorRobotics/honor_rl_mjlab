@@ -1,0 +1,3 @@
+[simulation]
+physics_dt = 0.005
+control_dt = 0.02
